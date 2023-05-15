@@ -1,0 +1,708 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 15 May 2023 22:55:48 at https://www.cubbo.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cubbo.net/ -O1 "C:\My Web Sites\ladder" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:55:50	Warning: 	Note: due to https://www.cubbo.net remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+22:56:15	Error: 	"Method Not Allowed" (405) at link https://www.cubbo.net/xmlrpc.php (from https://www.cubbo.net/)
+23:03:12	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://widget.gigatools.com/html/v2/GigaTools-iframe.js (from https://www.cubbo.net/)
+23:03:45	Warning: 	File not parsed, looks like binary: https://www.cubbo.net/wp-content/plugins/revslider/public/assets/css/openhand.cur
+23:03:46	Warning: 	File not parsed, looks like binary: https://www.cubbo.net/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+23:04:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1333
+23:04:01	Warning: 	File has moved from https://www.cubbo.net/?p=1333 to https://www.cubbo.net/booking/
+23:04:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1401
+23:04:01	Warning: 	File has moved from https://www.cubbo.net/?p=1401 to https://www.cubbo.net/podcast/
+23:04:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1440
+23:04:01	Warning: 	File has moved from https://www.cubbo.net/?p=1440 to https://www.cubbo.net/music/christian-smith/
+23:04:20	Warning: 	Moved Permanently for https://www.cubbo.net/?p=54022
+23:04:20	Warning: 	File has moved from https://www.cubbo.net/?p=54022 to https://www.cubbo.net/music/daniela-da-silva/
+23:04:21	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1266
+23:04:21	Warning: 	File has moved from https://www.cubbo.net/?p=1266 to https://www.cubbo.net/music/dj-murphy/
+23:04:22	Warning: 	Moved Permanently for https://www.cubbo.net/?p=43987
+23:04:22	Warning: 	File has moved from https://www.cubbo.net/?p=43987 to https://www.cubbo.net/music/dok-martin/
+23:04:22	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link wp-content/uploads/2022/09/dokmartinyt2.jpg (from https://www.cubbo.net/music/dok-martin/)
+23:04:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1267
+23:04:29	Warning: 	File has moved from https://www.cubbo.net/?p=1267 to https://www.cubbo.net/music/eric-sneo/
+23:06:36	Warning: 	Moved Permanently for https://www.cubbo.net/?p=47302
+23:06:36	Warning: 	File has moved from https://www.cubbo.net/?p=47302 to https://www.cubbo.net/music/essan/
+23:06:36	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1269
+23:06:36	Warning: 	File has moved from https://www.cubbo.net/?p=1269 to https://www.cubbo.net/music/horacio-cruz/
+23:07:00	Warning: 	Moved Permanently for https://www.cubbo.net/?p=41018
+23:07:00	Warning: 	File has moved from https://www.cubbo.net/?p=41018 to https://www.cubbo.net/music/irregular-live/
+23:07:00	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1433
+23:07:00	Warning: 	File has moved from https://www.cubbo.net/?p=1433 to https://www.cubbo.net/music/kaiserdisco/
+23:07:20	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1270
+23:07:20	Warning: 	File has moved from https://www.cubbo.net/?p=1270 to https://www.cubbo.net/music/ken-ishii/
+23:07:37	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1251
+23:07:37	Warning: 	File has moved from https://www.cubbo.net/?p=1251 to https://www.cubbo.net/music/djlefrak/
+23:07:39	Error: 	"Not Found" (404) at link https://www.cubbo.net/press-kit-lefrak (from https://www.cubbo.net/music/djlefrak/)
+23:07:39	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link wp-content/uploads/2022/09/lefrakyt3.jpg (from https://www.cubbo.net/music/djlefrak/)
+23:07:46	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1271
+23:07:46	Warning: 	File has moved from https://www.cubbo.net/?p=1271 to https://www.cubbo.net/music/lexlay/
+23:08:00	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1273
+23:08:00	Warning: 	File has moved from https://www.cubbo.net/?p=1273 to https://www.cubbo.net/music/lucas-freire/
+23:08:14	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1685
+23:08:14	Warning: 	File has moved from https://www.cubbo.net/?p=1685 to https://www.cubbo.net/music/manuel-orf-aka-viper-xxl/
+23:08:32	Warning: 	Moved Permanently for https://www.cubbo.net/?p=40330
+23:08:32	Warning: 	File has moved from https://www.cubbo.net/?p=40330 to https://www.cubbo.net/music/misstress-barbara/
+23:08:32	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link wp-content/uploads/2022/09/barbarayt.jpg (from https://www.cubbo.net/music/misstress-barbara/)
+23:08:39	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1244
+23:08:39	Warning: 	File has moved from https://www.cubbo.net/?p=1244 to https://www.cubbo.net/music/oscar-aguilera/
+23:08:40	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2510
+23:08:40	Warning: 	File has moved from https://www.cubbo.net/?p=2510 to https://www.cubbo.net/music/oscar-l/
+23:08:56	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1246
+23:08:56	Warning: 	File has moved from https://www.cubbo.net/?p=1246 to https://www.cubbo.net/music/raffaele-attanasio/
+23:09:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1249
+23:09:11	Warning: 	File has moved from https://www.cubbo.net/?p=1249 to https://www.cubbo.net/music/shitake/
+23:09:23	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1265
+23:09:23	Warning: 	File has moved from https://www.cubbo.net/?p=1265 to https://www.cubbo.net/music/svetec/
+23:09:24	Warning: 	Moved Permanently for https://www.cubbo.net/?p=8133
+23:09:24	Warning: 	File has moved from https://www.cubbo.net/?p=8133 to https://www.cubbo.net/broken-robot-new-videoset-online/
+23:09:26	Error: 	"Not Found" (404) at link https://www.cubbo.net/music/broken-robot-aka-golpe/ (from https://www.cubbo.net/broken-robot-new-videoset-online/)
+23:09:37	Warning: 	Moved Permanently for https://www.cubbo.net/?p=8049
+23:09:37	Warning: 	File has moved from https://www.cubbo.net/?p=8049 to https://www.cubbo.net/caal-baum-pop-yo-booty-ep/
+23:09:49	Warning: 	Moved Permanently for https://www.cubbo.net/?p=8041
+23:09:49	Warning: 	File has moved from https://www.cubbo.net/?p=8041 to https://www.cubbo.net/eric-sneo-a-paul-dj-murphy-n-o-b-a-abyssvm-dkult-david-granha-insidious-reborn-ep/
+23:09:57	Warning: 	Moved Permanently for https://www.cubbo.net/?p=8139
+23:09:57	Warning: 	File has moved from https://www.cubbo.net/?p=8139 to https://www.cubbo.net/watch-drumcomplex-performing-live-silq-club-in-dusseldorf-germany-2019/
+23:09:58	Error: 	"Not Found" (404) at link https://www.cubbo.net/music/drumcomplex/ (from https://www.cubbo.net/watch-drumcomplex-performing-live-silq-club-in-dusseldorf-germany-2019/)
+23:10:02	Warning: 	Moved Permanently for https://www.cubbo.net/?p=8056
+23:10:02	Warning: 	File has moved from https://www.cubbo.net/?p=8056 to https://www.cubbo.net/christian-smith-john-selways-track-on-faze-88-dr-motte-compilation/
+23:10:05	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1909
+23:10:05	Warning: 	File has moved from https://www.cubbo.net/?p=1909 to https://www.cubbo.net/news/
+23:11:01	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://widget.gigatools.com/html/v2/GigaTools-iframe.js (from https://www.cubbo.net/)
+23:11:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2741&lang=es
+23:11:01	Warning: 	File has moved from https://www.cubbo.net/?p=2741&lang=es to https://www.cubbo.net/booking/?lang=es
+23:11:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2747&lang=es
+23:11:01	Warning: 	File has moved from https://www.cubbo.net/?p=2747&lang=es to https://www.cubbo.net/podcast/?lang=es
+23:11:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2803&lang=es
+23:11:01	Warning: 	File has moved from https://www.cubbo.net/?p=2803&lang=es to https://www.cubbo.net/music/alberto-ruiz/?lang=es
+23:11:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2805&lang=es
+23:11:01	Warning: 	File has moved from https://www.cubbo.net/?p=2805&lang=es to https://www.cubbo.net/music/christian-smith/?lang=es
+23:11:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3036&lang=es
+23:11:01	Warning: 	File has moved from https://www.cubbo.net/?p=3036&lang=es to https://www.cubbo.net/music/dj-murphy/?lang=es
+23:11:04	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3039&lang=es
+23:11:04	Warning: 	File has moved from https://www.cubbo.net/?p=3039&lang=es to https://www.cubbo.net/music/eric-sneo/?lang=es
+23:11:12	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2738&lang=es
+23:11:12	Warning: 	File has moved from https://www.cubbo.net/?p=2738&lang=es to https://www.cubbo.net/new-website/?lang=es
+23:11:15	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2735&lang=es
+23:11:15	Warning: 	File has moved from https://www.cubbo.net/?p=2735&lang=es to https://www.cubbo.net/lexlay/?lang=es
+23:11:18	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2732&lang=es
+23:11:18	Warning: 	File has moved from https://www.cubbo.net/?p=2732&lang=es to https://www.cubbo.net/a-paul/?lang=es
+23:11:22	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2729&lang=es
+23:11:22	Warning: 	File has moved from https://www.cubbo.net/?p=2729&lang=es to https://www.cubbo.net/cubbo-welcomes-dj-murphy/?lang=es
+23:11:22	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3060&lang=es
+23:11:22	Warning: 	File has moved from https://www.cubbo.net/?p=3060&lang=es to https://www.cubbo.net/news/?lang=es
+23:12:24	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1483
+23:12:24	Warning: 	File has moved from https://www.cubbo.net/?p=1483 to https://www.cubbo.net/press-kit-christian-smith/
+23:12:24	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7503
+23:12:24	Warning: 	File has moved from https://www.cubbo.net/?p=7503 to https://www.cubbo.net/tronic-podcast-373-with-christian-smith/
+23:12:28	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6714
+23:12:28	Warning: 	File has moved from https://www.cubbo.net/?p=6714 to https://www.cubbo.net/cubbo-news-christian-smith/
+23:12:42	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5592
+23:12:42	Warning: 	File has moved from https://www.cubbo.net/?p=5592 to https://www.cubbo.net/5592/
+23:12:49	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4908
+23:12:49	Warning: 	File has moved from https://www.cubbo.net/?p=4908 to https://www.cubbo.net/christian-smith-and-eric-sneo-contributed-on-another-tronics-compilation-orbit/
+23:12:49	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4467
+23:12:49	Warning: 	File has moved from https://www.cubbo.net/?p=4467 to https://www.cubbo.net/press-kit-a-paul/
+23:12:49	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1486
+23:12:49	Warning: 	File has moved from https://www.cubbo.net/?p=1486 to https://www.cubbo.net/press-kit-dj-murphy/
+23:12:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link wp-content/uploads/2022/09/dokmartinyt2.jpg (from https://www.cubbo.net/music/dok-martin/)
+23:12:56	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1492
+23:12:56	Warning: 	File has moved from https://www.cubbo.net/?p=1492 to https://www.cubbo.net/press-kit-eric-sneo/
+23:12:56	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7403
+23:12:56	Warning: 	File has moved from https://www.cubbo.net/?p=7403 to https://www.cubbo.net/eric-sneo-flashing-moments-ep/
+23:12:57	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7396
+23:12:57	Warning: 	File has moved from https://www.cubbo.net/?p=7396 to https://www.cubbo.net/eric-sneos-track-on-we-can-be-heroes-2-compilation/
+23:12:59	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6341
+23:12:59	Warning: 	File has moved from https://www.cubbo.net/?p=6341 to https://www.cubbo.net/eric-sneos-track-on-mind-trip-b-side-ep/
+23:12:59	Warning: 	Moved Permanently for https://www.cubbo.net/?p=40640&lang=es
+23:12:59	Warning: 	File has moved from https://www.cubbo.net/?p=40640&lang=es to https://www.cubbo.net/music/essan/?lang=es
+23:12:59	Warning: 	Moved Permanently for https://www.cubbo.net/?p=47301
+23:12:59	Warning: 	File has moved from https://www.cubbo.net/?p=47301 to https://www.cubbo.net/music/juarez/
+23:12:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link wp-content/uploads/2022/09/juarezyt.jpg (from https://www.cubbo.net/music/juarez/)
+23:13:02	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1498
+23:13:02	Warning: 	File has moved from https://www.cubbo.net/?p=1498 to https://www.cubbo.net/press-kit-horacio-cruz/
+23:13:02	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6814
+23:13:02	Warning: 	File has moved from https://www.cubbo.net/?p=6814 to https://www.cubbo.net/horacio-cruz-twins-x/
+23:13:06	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3960
+23:13:06	Warning: 	File has moved from https://www.cubbo.net/?p=3960 to https://www.cubbo.net/horacio-cruz-hertzqvake-oruam-zior-begard-equis-ep/
+23:13:13	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3967
+23:13:13	Warning: 	File has moved from https://www.cubbo.net/?p=3967 to https://www.cubbo.net/horacio-cruz-dario-sorano-darmec-c-system-merimell-acid-wave-remixes-pt-1/
+23:13:13	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3972
+23:13:13	Warning: 	File has moved from https://www.cubbo.net/?p=3972 to https://www.cubbo.net/horacio-cruz-pakau-valerio-panizio-dario-sorano-c-system-irregular-synth-system-failed/
+23:13:18	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3995
+23:13:18	Warning: 	File has moved from https://www.cubbo.net/?p=3995 to https://www.cubbo.net/3995/
+23:13:18	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1500
+23:13:18	Warning: 	File has moved from https://www.cubbo.net/?p=1500 to https://www.cubbo.net/press-kit-kaiserdisco/
+23:13:18	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7421
+23:13:18	Warning: 	File has moved from https://www.cubbo.net/?p=7421 to https://www.cubbo.net/kaiserdisco-richie-hawtin-collaboration-released-on-close-combined-live-glasgow-london-tokyo/
+23:13:23	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7427
+23:13:23	Warning: 	File has moved from https://www.cubbo.net/?p=7427 to https://www.cubbo.net/kaiserdisco-bye-summer-hello-autumn-charts/
+23:13:36	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6155
+23:13:36	Warning: 	File has moved from https://www.cubbo.net/?p=6155 to https://www.cubbo.net/kaiserdisco-bottle-popper-original-mix/
+23:13:40	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4022
+23:13:40	Warning: 	File has moved from https://www.cubbo.net/?p=4022 to https://www.cubbo.net/kaiserdisco-paranoid-ep/
+23:13:45	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6347
+23:13:45	Warning: 	File has moved from https://www.cubbo.net/?p=6347 to https://www.cubbo.net/kaiserdisco-karotte-collaboration-on-rockets-launch-06-compilation/
+23:13:45	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1508
+23:13:45	Warning: 	File has moved from https://www.cubbo.net/?p=1508 to https://www.cubbo.net/press-kit-ken-ishii/
+23:13:45	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6821
+23:13:45	Warning: 	File has moved from https://www.cubbo.net/?p=6821 to https://www.cubbo.net/ken-ishiis-track-included-in-nine-years-of-techno-selected-by-greencross-compilation/
+23:13:50	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5309
+23:13:50	Warning: 	File has moved from https://www.cubbo.net/?p=5309 to https://www.cubbo.net/drumcomplex-ken-ishii-lucas-freire-on-nine-years-of-techno-selected-by-agent-orange-dj/
+23:13:59	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5495
+23:13:59	Warning: 	File has moved from https://www.cubbo.net/?p=5495 to https://www.cubbo.net/ken-ishii-industrialyzer-nuke-escape-original/
+23:14:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4036
+23:14:01	Warning: 	File has moved from https://www.cubbo.net/?p=4036 to https://www.cubbo.net/ken-ishii-nine-years-of-techno-selected-by-anderson-noise/
+23:14:05	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3664
+23:14:05	Warning: 	File has moved from https://www.cubbo.net/?p=3664 to https://www.cubbo.net/ken-ishii-with-dosem-green-flash/
+23:14:07	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link wp-content/uploads/2022/09/lefrakyt3.jpg (from https://www.cubbo.net/music/djlefrak/)
+23:14:14	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1510
+23:14:14	Warning: 	File has moved from https://www.cubbo.net/?p=1510 to https://www.cubbo.net/press-kit-lexlay/
+23:14:14	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7432
+23:14:14	Warning: 	File has moved from https://www.cubbo.net/?p=7432 to https://www.cubbo.net/lexlay-thailand-ep/
+23:14:16	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7522
+23:14:16	Warning: 	File has moved from https://www.cubbo.net/?p=7522 to https://www.cubbo.net/watch-lexlay-sheik-santa-rosa-argentina/
+23:14:22	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6838
+23:14:22	Warning: 	File has moved from https://www.cubbo.net/?p=6838 to https://www.cubbo.net/watch-lexlays-performance-zef-buenos-aires-argentina/
+23:14:24	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6858
+23:14:24	Warning: 	File has moved from https://www.cubbo.net/?p=6858 to https://www.cubbo.net/watch-lexlays-performance-loop-rosario-argentina-22-08-2019/
+23:14:24	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6322
+23:14:24	Warning: 	File has moved from https://www.cubbo.net/?p=6322 to https://www.cubbo.net/lexlay-afro-tribe-ep/
+23:14:24	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1514
+23:14:24	Warning: 	File has moved from https://www.cubbo.net/?p=1514 to https://www.cubbo.net/press-kit-lucas-freire/
+23:14:24	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7483
+23:14:24	Warning: 	File has moved from https://www.cubbo.net/?p=7483 to https://www.cubbo.net/live-set-lucas-freire-fernanda-martins-4-decks-sound-wave-festival-27-07-2019/
+23:14:24	Error: 	"Not Found" (404) at link https://www.cubbo.net/music/fernanda-martins/ (from https://www.cubbo.net/live-set-lucas-freire-fernanda-martins-4-decks-sound-wave-festival-27-07-2019/)
+23:14:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7034
+23:14:29	Warning: 	File has moved from https://www.cubbo.net/?p=7034 to https://www.cubbo.net/lucas-freire-delirium-podcast-030/
+23:14:32	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4097
+23:14:32	Warning: 	File has moved from https://www.cubbo.net/?p=4097 to https://www.cubbo.net/lucas-freire-steamroller-original-mix-free-download/
+23:14:36	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4106
+23:14:36	Warning: 	File has moved from https://www.cubbo.net/?p=4106 to https://www.cubbo.net/data-transmission-spotlight-mix-lucas-freire/
+23:14:36	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1746
+23:14:36	Warning: 	File has moved from https://www.cubbo.net/?p=1746 to https://www.cubbo.net/press-kit-manuel-orf-aka-viperxxl/
+23:14:36	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7439
+23:14:36	Warning: 	File has moved from https://www.cubbo.net/?p=7439 to https://www.cubbo.net/manuel-orf-aka-viper-xxl-fidelity-ep/
+23:14:39	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6385
+23:14:39	Warning: 	File has moved from https://www.cubbo.net/?p=6385 to https://www.cubbo.net/manuel-orfs-remix-part-of-eclipse-recordings-4-year-pt-2-compilation/
+23:14:44	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7444
+23:14:44	Warning: 	File has moved from https://www.cubbo.net/?p=7444 to https://www.cubbo.net/manuel-orf-aka-viper-xxls-remix-of-bretthit-champas-track-public-enemy-out-now/
+23:14:49	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4171
+23:14:49	Warning: 	File has moved from https://www.cubbo.net/?p=4171 to https://www.cubbo.net/manuel-orf-aka-viper-xxl-meiht-bjoern-willing-bday-12-07-2019/
+23:14:54	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4191
+23:14:54	Warning: 	File has moved from https://www.cubbo.net/?p=4191 to https://www.cubbo.net/manuel-orf-aka-viper-xxl-pink-techno-angy-kore-remix/
+23:14:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link wp-content/uploads/2022/09/barbarayt.jpg (from https://www.cubbo.net/music/misstress-barbara/)
+23:15:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1517
+23:15:01	Warning: 	File has moved from https://www.cubbo.net/?p=1517 to https://www.cubbo.net/press-kit-oscar-aguilera/
+23:15:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2514
+23:15:01	Warning: 	File has moved from https://www.cubbo.net/?p=2514 to https://www.cubbo.net/press-kit-oscar-l/
+23:15:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7449
+23:15:01	Warning: 	File has moved from https://www.cubbo.net/?p=7449 to https://www.cubbo.net/oscar-ls-remix-on-endless-summer-vol-2-compilation/
+23:15:02	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6788
+23:15:02	Warning: 	File has moved from https://www.cubbo.net/?p=6788 to https://www.cubbo.net/d-unity-oscar-l-dj-boris-fluctuate-ep/
+23:15:03	Error: 	"Not Found" (404) at link https://www.cubbo.net/music/d-unity/ (from https://www.cubbo.net/d-unity-oscar-l-dj-boris-fluctuate-ep/)
+23:15:09	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6397
+23:15:09	Warning: 	File has moved from https://www.cubbo.net/?p=6397 to https://www.cubbo.net/oscar-ls-track-on-the-best-of-moan-vol-7-compilation/
+23:15:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6392
+23:15:11	Warning: 	File has moved from https://www.cubbo.net/?p=6392 to https://www.cubbo.net/oscar-l-ronnie-spiteri-racso-sunrise-ep/
+23:15:12	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4229
+23:15:12	Warning: 	File has moved from https://www.cubbo.net/?p=4229 to https://www.cubbo.net/oscar-l-vertigo-chart/
+23:15:12	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1521
+23:15:12	Warning: 	File has moved from https://www.cubbo.net/?p=1521 to https://www.cubbo.net/press-kit-raffaele-attanasio/
+23:15:15	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4754
+23:15:15	Warning: 	File has moved from https://www.cubbo.net/?p=4754 to https://www.cubbo.net/4754/
+23:15:19	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4770
+23:15:19	Warning: 	File has moved from https://www.cubbo.net/?p=4770 to https://www.cubbo.net/raffaele-attanasio-hate-podcast-130/
+23:15:22	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4792
+23:15:22	Warning: 	File has moved from https://www.cubbo.net/?p=4792 to https://www.cubbo.net/raffaele-attanasio-svarog-arnaud-le-texier-egor-boss-d_func-alex-bau-viktoria-rebeka-ad-lib-silvision-mattias-fridell-hans-bouffmyhre-electric-rescue-bjoern-stolpmann-9/
+23:15:25	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4780
+23:15:25	Warning: 	File has moved from https://www.cubbo.net/?p=4780 to https://www.cubbo.net/raffaele-attanasio-b2b-remco-beekwilder-reaktor-x-monnom-black-nye/
+23:15:33	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4799
+23:15:33	Warning: 	File has moved from https://www.cubbo.net/?p=4799 to https://www.cubbo.net/raffaele-attanasio-douglas-j-mccarthy-lust-it-fills-the-space-ep/
+23:15:35	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1527
+23:15:35	Warning: 	File has moved from https://www.cubbo.net/?p=1527 to https://www.cubbo.net/press-kit-shitake/
+23:15:39	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4058
+23:15:39	Warning: 	File has moved from https://www.cubbo.net/?p=4058 to https://www.cubbo.net/lexlay-barcelona-2019-compiled-by-lexlay/
+23:15:44	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5719
+23:15:44	Warning: 	File has moved from https://www.cubbo.net/?p=5719 to https://www.cubbo.net/happy-techno-miami-2019-compiled-by-lexlay/
+23:15:50	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5664
+23:15:50	Warning: 	File has moved from https://www.cubbo.net/?p=5664 to https://www.cubbo.net/shitake-diego-lima-got-me-ep/
+23:15:50	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4470
+23:15:50	Warning: 	File has moved from https://www.cubbo.net/?p=4470 to https://www.cubbo.net/press-kit-alberto-ruiz/
+23:16:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7510
+23:16:11	Warning: 	File has moved from https://www.cubbo.net/?p=7510 to https://www.cubbo.net/get-connected-with-mladen-tomic-guest-mix-by-d-unity/
+23:16:51	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7535
+23:16:51	Warning: 	File has moved from https://www.cubbo.net/?p=7535 to https://www.cubbo.net/new-st-28-podcast-by-siles-is-online/
+23:16:51	Error: 	"Not Found" (404) at link https://www.cubbo.net/music/siles/ (from https://www.cubbo.net/new-st-28-podcast-by-siles-is-online/)
+23:16:53	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7461
+23:16:53	Warning: 	File has moved from https://www.cubbo.net/?p=7461 to https://www.cubbo.net/sinisa-tamamovics-track-included-on-ade-compilation/
+23:16:54	Error: 	"Not Found" (404) at link https://www.cubbo.net/music/sinisa-tamamovic/ (from https://www.cubbo.net/sinisa-tamamovics-track-included-on-ade-compilation/)
+23:16:54	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7372
+23:16:54	Warning: 	File has moved from https://www.cubbo.net/?p=7372 to https://www.cubbo.net/a-paul-dkults-remix-on-sublime-techno-vol-6-compilation/
+23:16:54	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7364
+23:16:54	Warning: 	File has moved from https://www.cubbo.net/?p=7364 to https://www.cubbo.net/a-paul-dkults-remix-on-hardtechno-selection-02/
+23:16:54	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7388
+23:16:54	Warning: 	File has moved from https://www.cubbo.net/?p=7388 to https://www.cubbo.net/remix-of-davina-mosss-track-on-elicious-muzik-talk-vol-01-compilation/
+23:16:56	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7475
+23:16:56	Warning: 	File has moved from https://www.cubbo.net/?p=7475 to https://www.cubbo.net/drumcomplexs-track-joy-on-nobody-listens-to-techno-9-compilation/
+23:16:56	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7412
+23:16:56	Warning: 	File has moved from https://www.cubbo.net/?p=7412 to https://www.cubbo.net/juli-aristys-track-on-beat-therapy-vol-23-compilation-compilation/
+23:16:56	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7382
+23:16:56	Warning: 	File has moved from https://www.cubbo.net/?p=7382 to https://www.cubbo.net/davina-moss-heart-beat-ep/
+23:16:56	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7516
+23:16:56	Warning: 	File has moved from https://www.cubbo.net/?p=7516 to https://www.cubbo.net/juli-aristy-live-transformator-wroclaw-poland/
+23:16:56	Error: 	"Not Found" (404) at link https://www.cubbo.net/music/juli-aristy/ (from https://www.cubbo.net/juli-aristy-live-transformator-wroclaw-poland/)
+23:16:56	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7493
+23:16:56	Warning: 	File has moved from https://www.cubbo.net/?p=7493 to https://www.cubbo.net/drumcomplexed-radio-show-episode-027-with-drumcomplex/
+23:16:57	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7359
+23:16:57	Warning: 	File has moved from https://www.cubbo.net/?p=7359 to https://www.cubbo.net/a-pauls-remix-for-cyberx-on-templarium-ep/
+23:16:58	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7529
+23:16:58	Warning: 	File has moved from https://www.cubbo.net/?p=7529 to https://www.cubbo.net/watch-sinisa-tamamovic-fresh-wave-festival-2019/
+23:16:58	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7027
+23:16:58	Warning: 	File has moved from https://www.cubbo.net/?p=7027 to https://www.cubbo.net/siles-quenum-lie2you-valerio-vaudano-fidemon-ep/
+23:16:58	Warning: 	Moved Permanently for https://www.cubbo.net/?p=7469
+23:16:58	Warning: 	File has moved from https://www.cubbo.net/?p=7469 to https://www.cubbo.net/drumcomplexs-track-and-remix-included-on-monophon-issue-14-compilation/
+23:16:58	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6893
+23:16:58	Warning: 	File has moved from https://www.cubbo.net/?p=6893 to https://www.cubbo.net/drumcomplexed-radio-show-episode-025-with-drumcomplex/
+23:16:59	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6708
+23:16:59	Warning: 	File has moved from https://www.cubbo.net/?p=6708 to https://www.cubbo.net/watch-drumcomplex-performing-spiltmilk-festival-2019-capetown/
+23:17:14	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6754
+23:17:14	Warning: 	File has moved from https://www.cubbo.net/?p=6754 to https://www.cubbo.net/davina-moss-iva-dive-tuff-dub-bom-da-dee-mamba-ep/
+23:17:15	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6830
+23:17:15	Warning: 	File has moved from https://www.cubbo.net/?p=6830 to https://www.cubbo.net/a-paul-mike-dearborn-the-advent-tom-hades-the-voice-of-god-ep/
+23:17:15	Error: 	"Not Found" (404) at link https://www.cubbo.net/music/a-paul/ (from https://www.cubbo.net/a-paul-mike-dearborn-the-advent-tom-hades-the-voice-of-god-ep/)
+23:17:15	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6581
+23:17:15	Warning: 	File has moved from https://www.cubbo.net/?p=6581 to https://www.cubbo.net/baum-caal-block-party-ep/
+23:17:15	Error: 	"Not Found" (404) at link https://www.cubbo.net/music/baum/ (from https://www.cubbo.net/baum-caal-block-party-ep/)
+23:17:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://widget.gigatools.com/html/v2/GigaTools-iframe.js (from https://www.cubbo.net/)
+23:17:15	Warning: 	Moved Permanently for https://www.cubbo.net/?p=40361&lang=es
+23:17:15	Warning: 	File has moved from https://www.cubbo.net/?p=40361&lang=es to https://www.cubbo.net/music/juarez/?lang=es
+23:17:20	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1648
+23:17:20	Warning: 	File has moved from https://www.cubbo.net/?p=1648 to https://www.cubbo.net/1648-2/
+23:17:24	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1
+23:17:24	Warning: 	File has moved from https://www.cubbo.net/?p=1 to https://www.cubbo.net/hello-world/
+23:17:24	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3058&lang=es
+23:17:24	Warning: 	File has moved from https://www.cubbo.net/?p=3058&lang=es to https://www.cubbo.net/noticia-test/?lang=es
+23:17:24	Warning: 	Found for https://www.cubbo.net/category/noticias/?lang=es/feed/
+23:17:24	Warning: 	File has moved from https://www.cubbo.net/category/noticias/?lang=es/feed/ to https://www.cubbo.net/category/news/
+23:17:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1372
+23:17:29	Warning: 	File has moved from https://www.cubbo.net/?p=1372 to https://www.cubbo.net/lexlay/
+23:17:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1370
+23:17:29	Warning: 	File has moved from https://www.cubbo.net/?p=1370 to https://www.cubbo.net/a-paul/
+23:17:31	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1378
+23:17:31	Warning: 	File has moved from https://www.cubbo.net/?p=1378 to https://www.cubbo.net/cubbo-welcomes-dj-murphy/
+23:17:31	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2726&lang=es
+23:17:31	Warning: 	File has moved from https://www.cubbo.net/?p=2726&lang=es to https://www.cubbo.net/alberto-ruiz-on-instagram/?lang=es
+23:17:34	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2723&lang=es
+23:17:34	Warning: 	File has moved from https://www.cubbo.net/?p=2723&lang=es to https://www.cubbo.net/spartaque-afterdark/?lang=es
+23:17:37	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2720&lang=es
+23:17:37	Warning: 	File has moved from https://www.cubbo.net/?p=2720&lang=es to https://www.cubbo.net/connecting-arg-live-w-luigi-rocca/?lang=es
+23:17:42	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2716&lang=es
+23:17:42	Warning: 	File has moved from https://www.cubbo.net/?p=2716&lang=es to https://www.cubbo.net/love-is-in-the-air-episode-05-luigi-rocca-dj-set-january-2019/?lang=es
+23:17:45	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2712&lang=es
+23:17:45	Warning: 	File has moved from https://www.cubbo.net/?p=2712&lang=es to https://www.cubbo.net/wildcards-003/?lang=es
+23:17:48	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2709&lang=es
+23:17:48	Warning: 	File has moved from https://www.cubbo.net/?p=2709&lang=es to https://www.cubbo.net/steam-shape-live-black-mamba-akvarium/?lang=es
+23:17:53	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2706&lang=es
+23:17:53	Warning: 	File has moved from https://www.cubbo.net/?p=2706&lang=es to https://www.cubbo.net/luigi-rocca-rude-it-body-soul-ep/?lang=es
+23:17:55	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2703&lang=es
+23:17:55	Warning: 	File has moved from https://www.cubbo.net/?p=2703&lang=es to https://www.cubbo.net/ken-ishii-diode/?lang=es
+23:17:58	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2697&lang=es
+23:17:58	Warning: 	File has moved from https://www.cubbo.net/?p=2697&lang=es to https://www.cubbo.net/kaiserdisco-hallodri-ep/?lang=es
+23:18:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2694&lang=es
+23:18:01	Warning: 	File has moved from https://www.cubbo.net/?p=2694&lang=es to https://www.cubbo.net/fernanda-martins-moving-d-edge-sao-paulo/?lang=es
+23:18:02	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2690&lang=es
+23:18:02	Warning: 	File has moved from https://www.cubbo.net/?p=2690&lang=es to https://www.cubbo.net/naked-lunch-podcast-300-a-paul/?lang=es
+23:18:04	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2687&lang=es
+23:18:04	Warning: 	File has moved from https://www.cubbo.net/?p=2687&lang=es to https://www.cubbo.net/eric-sneo-dj-rush-body-control-ep/?lang=es
+23:18:05	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2684&lang=es
+23:18:05	Warning: 	File has moved from https://www.cubbo.net/?p=2684&lang=es to https://www.cubbo.net/ken-ishii-mixcloud-official-exclusive-february-2019-mix/?lang=es
+23:18:09	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2681&lang=es
+23:18:09	Warning: 	File has moved from https://www.cubbo.net/?p=2681&lang=es to https://www.cubbo.net/kaiserdisco-joins-cubbo/?lang=es
+23:18:10	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2677&lang=es
+23:18:10	Warning: 	File has moved from https://www.cubbo.net/?p=2677&lang=es to https://www.cubbo.net/autoclave-a-paul-dkult-remix/?lang=es
+23:18:13	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2673&lang=es
+23:18:13	Warning: 	File has moved from https://www.cubbo.net/?p=2673&lang=es to https://www.cubbo.net/lucas-freire-february-2019-chart/?lang=es
+23:18:14	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2670&lang=es
+23:18:14	Warning: 	File has moved from https://www.cubbo.net/?p=2670&lang=es to https://www.cubbo.net/golpe-at-beats-evolution-conference/?lang=es
+23:18:15	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2667&lang=es
+23:18:15	Warning: 	File has moved from https://www.cubbo.net/?p=2667&lang=es to https://www.cubbo.net/davina-moss-feat-issa-elle-mambale-ep/?lang=es
+23:18:15	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2664&lang=es
+23:18:15	Warning: 	File has moved from https://www.cubbo.net/?p=2664&lang=es to https://www.cubbo.net/hsh_interview-ken-ishii/?lang=es
+23:18:30	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2661&lang=es
+23:18:30	Warning: 	File has moved from https://www.cubbo.net/?p=2661&lang=es to https://www.cubbo.net/octopus-podcast-302-rob-hes-guest-mix/?lang=es
+23:18:32	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2658&lang=es
+23:18:32	Warning: 	File has moved from https://www.cubbo.net/?p=2658&lang=es to https://www.cubbo.net/rave-jungle-interview-with-fernanda-martins/?lang=es
+23:18:36	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2655&lang=es
+23:18:36	Warning: 	File has moved from https://www.cubbo.net/?p=2655&lang=es to https://www.cubbo.net/rob-hes-different-shapes/?lang=es
+23:18:38	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2652&lang=es
+23:18:38	Warning: 	File has moved from https://www.cubbo.net/?p=2652&lang=es to https://www.cubbo.net/mix214-fernanda-martins/?lang=es
+23:18:40	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2649&lang=es
+23:18:40	Warning: 	File has moved from https://www.cubbo.net/?p=2649&lang=es to https://www.cubbo.net/technocity-berlin-interview-with-fernanda-martins-ger/?lang=es
+23:18:45	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2646&lang=es
+23:18:45	Warning: 	File has moved from https://www.cubbo.net/?p=2646&lang=es to https://www.cubbo.net/kd-radio-show/?lang=es
+23:18:47	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2643&lang=es
+23:18:47	Warning: 	File has moved from https://www.cubbo.net/?p=2643&lang=es to https://www.cubbo.net/broken-robot-cube-sacre-couer-w-snts/?lang=es
+23:18:48	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2640&lang=es
+23:18:48	Warning: 	File has moved from https://www.cubbo.net/?p=2640&lang=es to https://www.cubbo.net/techno-voller-leidenschaft-fernanda-martins/?lang=es
+23:18:51	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2637&lang=es
+23:18:51	Warning: 	File has moved from https://www.cubbo.net/?p=2637&lang=es to https://www.cubbo.net/giovanni-carozza-spartaque-thermal-inertia-pre-order/?lang=es
+23:18:55	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2634&lang=es
+23:18:55	Warning: 	File has moved from https://www.cubbo.net/?p=2634&lang=es to https://www.cubbo.net/steam-shape-dimensionless-ep/?lang=es
+23:18:57	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2631&lang=es
+23:18:57	Warning: 	File has moved from https://www.cubbo.net/?p=2631&lang=es to https://www.cubbo.net/a-paul-dj-dextro-probe-ep/?lang=es
+23:19:00	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2628&lang=es
+23:19:00	Warning: 	File has moved from https://www.cubbo.net/?p=2628&lang=es to https://www.cubbo.net/lucas-freire-april-2019-chart/?lang=es
+23:19:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2625&lang=es
+23:19:01	Warning: 	File has moved from https://www.cubbo.net/?p=2625&lang=es to https://www.cubbo.net/lucas-freire-plays-produces-feels-lives-and-breathes-techno/?lang=es
+23:19:03	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2700&lang=es
+23:19:03	Warning: 	File has moved from https://www.cubbo.net/?p=2700&lang=es to https://www.cubbo.net/golpe-aka-broken-robot-bpm-wars-kolin/?lang=es
+23:19:12	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6572
+23:19:12	Warning: 	File has moved from https://www.cubbo.net/?p=6572 to https://www.cubbo.net/baum-joins-cubbo/
+23:19:15	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5965
+23:19:15	Warning: 	File has moved from https://www.cubbo.net/?p=5965 to https://www.cubbo.net/drumcomplex-joins-cubbo/
+23:19:22	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5913
+23:19:22	Warning: 	File has moved from https://www.cubbo.net/?p=5913 to https://www.cubbo.net/drumcomplex-raul-mezcolanza-and-aleberto-ruizs-remixes-on-natura-viva-presents-la-forza-compilation/
+23:19:26	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3910
+23:19:26	Warning: 	File has moved from https://www.cubbo.net/?p=3910 to https://www.cubbo.net/d-unity-metodi-hristov-the-moment/
+23:19:26	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4812
+23:19:26	Warning: 	File has moved from https://www.cubbo.net/?p=4812 to https://www.cubbo.net/broken-robot-matt-ess-lucas-wirth-pre-order-fata-morgana-ep/
+23:19:26	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link wp-content/uploads/2022/09/dokmartinyt2.jpg (from https://www.cubbo.net/music/dok-martin/)
+23:19:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link wp-content/uploads/2022/09/juarezyt.jpg (from https://www.cubbo.net/music/juarez/)
+23:19:38	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4204
+23:19:38	Warning: 	File has moved from https://www.cubbo.net/?p=4204 to https://www.cubbo.net/nusha-tanz-haus-west-frankfurt/
+23:19:44	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4551
+23:19:44	Warning: 	File has moved from https://www.cubbo.net/?p=4551 to https://www.cubbo.net/sarah-strandberg-daughter-of-delusion-ep/
+23:19:45	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3905
+23:19:45	Warning: 	File has moved from https://www.cubbo.net/?p=3905 to https://www.cubbo.net/christian-smith-2pole-jam-el-mar-ursula-rucker-colectivo-triangular-1ne-ep/
+23:19:48	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3743
+23:19:48	Warning: 	File has moved from https://www.cubbo.net/?p=3743 to https://www.cubbo.net/sinisa-tamamovic-egbert-rings-ep/
+23:19:49	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4247
+23:19:49	Warning: 	File has moved from https://www.cubbo.net/?p=4247 to https://www.cubbo.net/oscar-l-matt-sassari-cilene-ep/
+23:19:57	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6737
+23:19:57	Warning: 	File has moved from https://www.cubbo.net/?p=6737 to https://www.cubbo.net/baums-beatport-summer-2019-chart/
+23:19:58	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5906
+23:19:58	Warning: 	File has moved from https://www.cubbo.net/?p=5906 to https://www.cubbo.net/drumcomplexfabio-neural-axel-karakasis-uptempo-ep/
+23:19:58	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5728
+23:19:58	Warning: 	File has moved from https://www.cubbo.net/?p=5728 to https://www.cubbo.net/siles-salseda-ep/
+23:19:58	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4234
+23:19:58	Warning: 	File has moved from https://www.cubbo.net/?p=4234 to https://www.cubbo.net/oscar-l-vertigo-ep/
+23:20:00	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5768
+23:20:00	Warning: 	File has moved from https://www.cubbo.net/?p=5768 to https://www.cubbo.net/juli-aristy-follow-the-girl-chart/
+23:20:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3738
+23:20:01	Warning: 	File has moved from https://www.cubbo.net/?p=3738 to https://www.cubbo.net/sinisa-tamamovic-voices-ep/
+23:20:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4693
+23:20:01	Warning: 	File has moved from https://www.cubbo.net/?p=4693 to https://www.cubbo.net/raul-mezcolanza-devid-dega-bolster-luca-marchese-cosmo-ep/
+23:20:06	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5247
+23:20:06	Warning: 	File has moved from https://www.cubbo.net/?p=5247 to https://www.cubbo.net/a-paul-dj-dextro-superstrobe-dolby-d-sideral/
+23:20:10	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4901
+23:20:10	Warning: 	File has moved from https://www.cubbo.net/?p=4901 to https://www.cubbo.net/broken-robot-zodiac-podcast-001/
+23:20:10	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3936
+23:20:10	Warning: 	File has moved from https://www.cubbo.net/?p=3936 to https://www.cubbo.net/davina-moss-alvaro-smart-festa-bros-jean-bacarreza-gemini-ep/
+23:20:10	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4884
+23:20:10	Warning: 	File has moved from https://www.cubbo.net/?p=4884 to https://www.cubbo.net/broken-robots-track-on-nothing-but-ibiza-summer-2019-techno-compilation/
+23:20:10	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4933
+23:20:10	Warning: 	File has moved from https://www.cubbo.net/?p=4933 to https://www.cubbo.net/davina-mosss-track-released-on-sense-of-house-vol-45-compilation/
+23:20:10	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link wp-content/uploads/2022/09/lefrakyt3.jpg (from https://www.cubbo.net/music/djlefrak/)
+23:20:15	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6145
+23:20:15	Warning: 	File has moved from https://www.cubbo.net/?p=6145 to https://www.cubbo.net/new-videoset-from-broken-robot-online/
+23:20:20	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3732
+23:20:20	Warning: 	File has moved from https://www.cubbo.net/?p=3732 to https://www.cubbo.net/d-unity-metodi-hristov-juliet-fox-enter-ep/
+23:20:20	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5227
+23:20:20	Warning: 	File has moved from https://www.cubbo.net/?p=5227 to https://www.cubbo.net/a-paul-yan-cook-phara-temudo-takaaki-itoh-vladw-grizzly-ep/
+23:20:22	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5413
+23:20:22	Warning: 	File has moved from https://www.cubbo.net/?p=5413 to https://www.cubbo.net/fernanda-martins-augusto-taito-derelict-ep/
+23:20:27	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6336
+23:20:27	Warning: 	File has moved from https://www.cubbo.net/?p=6336 to https://www.cubbo.net/drumcomplex-solid-matter/
+23:20:27	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5235
+23:20:27	Warning: 	File has moved from https://www.cubbo.net/?p=5235 to https://www.cubbo.net/a-paul-dj-dextro-angy-kore-dandi-ugo-convex-ep/
+23:20:27	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5614
+23:20:27	Warning: 	File has moved from https://www.cubbo.net/?p=5614 to https://www.cubbo.net/ken-ishii-the-world-of-pac-man-2/
+23:20:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5241
+23:20:29	Warning: 	File has moved from https://www.cubbo.net/?p=5241 to https://www.cubbo.net/a-paul-temudo-antenna-research-ep/
+23:20:29	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link wp-content/uploads/2022/09/barbarayt.jpg (from https://www.cubbo.net/music/misstress-barbara/)
+23:20:38	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6328
+23:20:38	Warning: 	File has moved from https://www.cubbo.net/?p=6328 to https://www.cubbo.net/a-pauls-remix-on-gobsmacked-classics-compiled-by-diarmaid-o-meara/
+23:20:38	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5490
+23:20:38	Warning: 	File has moved from https://www.cubbo.net/?p=5490 to https://www.cubbo.net/davina-moss-anna-tur-lets-go-ep/
+23:20:38	Error: 	"Not Found" (404) at link https://www.cubbo.net/music/davinamoss/ (from https://www.cubbo.net/davina-moss-anna-tur-lets-go-ep/)
+23:20:38	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4264
+23:20:38	Warning: 	File has moved from https://www.cubbo.net/?p=4264 to https://www.cubbo.net/d-unity-joins-cubbo/
+23:20:38	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3874
+23:20:38	Warning: 	File has moved from https://www.cubbo.net/?p=3874 to https://www.cubbo.net/eric-sneo-marco-piangiamore-evaluating-ep/
+23:20:38	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4149
+23:20:38	Warning: 	File has moved from https://www.cubbo.net/?p=4149 to https://www.cubbo.net/lucas-freire-noporn-maio-da-mulher-maravilha-lucas-freire-mix/
+23:20:41	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6085
+23:20:41	Warning: 	File has moved from https://www.cubbo.net/?p=6085 to https://www.cubbo.net/baum-caal-menesix-funk-dat-ep/
+23:20:41	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5271
+23:20:41	Warning: 	File has moved from https://www.cubbo.net/?p=5271 to https://www.cubbo.net/a-paul-axel-karakasis-darmec-dkult-abyssvm-stable-isolation/
+23:20:41	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4741
+23:20:41	Warning: 	File has moved from https://www.cubbo.net/?p=4741 to https://www.cubbo.net/4741/
+23:20:43	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1631
+23:20:43	Warning: 	File has moved from https://www.cubbo.net/?p=1631 to https://www.cubbo.net/davina-moss-feat-issa-elle-mambale-ep/
+23:20:48	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1642
+23:20:48	Warning: 	File has moved from https://www.cubbo.net/?p=1642 to https://www.cubbo.net/hsh_interview-ken-ishii/
+23:21:05	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4084
+23:21:05	Warning: 	File has moved from https://www.cubbo.net/?p=4084 to https://www.cubbo.net/lexlay-marco-c-skapes-miane-marcellus-uk-jrj-antony-pl-moda-understate-ibiza-2019/
+23:21:05	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4535
+23:21:05	Warning: 	File has moved from https://www.cubbo.net/?p=4535 to https://www.cubbo.net/sarah-strandberg-trick-c-miss-electric-teychee-urban-divas-ep/
+23:21:05	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3978
+23:21:05	Warning: 	File has moved from https://www.cubbo.net/?p=3978 to https://www.cubbo.net/3978/
+23:21:09	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4748
+23:21:09	Warning: 	File has moved from https://www.cubbo.net/?p=4748 to https://www.cubbo.net/raul-mezcolanza-input-club-barcelona-08-12-2018/
+23:21:09	Error: 	"Not Found" (404) at link https://www.cubbo.net/music/raul-mezcolanza/ (from https://www.cubbo.net/raul-mezcolanza-input-club-barcelona-08-12-2018/)
+23:21:09	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3888
+23:21:09	Warning: 	File has moved from https://www.cubbo.net/?p=3888 to https://www.cubbo.net/3888/
+23:21:09	Warning: 	Found for https://www.cubbo.net/category/live-set-es/?lang=es/feed/
+23:21:09	Warning: 	File has moved from https://www.cubbo.net/category/live-set-es/?lang=es/feed/ to https://www.cubbo.net/category/live-set/
+23:21:09	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6743
+23:21:09	Warning: 	File has moved from https://www.cubbo.net/?p=6743 to https://www.cubbo.net/baum-new-liveset-available-on-soundcloud/
+23:21:09	Warning: 	Found for https://www.cubbo.net/category/reloj/?lang=es/feed/
+23:21:09	Warning: 	File has moved from https://www.cubbo.net/category/reloj/?lang=es/feed/ to https://www.cubbo.net/category/watch/
+23:21:09	Warning: 	Found for https://www.cubbo.net/tag/brokenrobot-es/?lang=es/feed/
+23:21:09	Warning: 	File has moved from https://www.cubbo.net/tag/brokenrobot-es/?lang=es/feed/ to https://www.cubbo.net/tag/brokenrobot/
+23:21:12	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4895
+23:21:12	Warning: 	File has moved from https://www.cubbo.net/?p=4895 to https://www.cubbo.net/broken-robots-track-on-sick-planet-pankow-presents-easter-nitro-2019-compilation/
+23:21:16	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4836
+23:21:16	Warning: 	File has moved from https://www.cubbo.net/?p=4836 to https://www.cubbo.net/broken-robot-matt-ess-lucas-wirth-kuros-chimenes-resonate-ep/
+23:21:18	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1984
+23:21:18	Warning: 	File has moved from https://www.cubbo.net/?p=1984 to https://www.cubbo.net/broken-robot-cube-sacre-couer-w-snts/
+23:21:18	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1987
+23:21:18	Warning: 	File has moved from https://www.cubbo.net/?p=1987 to https://www.cubbo.net/golpe-at-beats-evolution-conference/
+23:21:43	Warning: 	Found for https://www.cubbo.net/category/estreno/?lang=es/feed/
+23:21:43	Warning: 	File has moved from https://www.cubbo.net/category/estreno/?lang=es/feed/ to https://www.cubbo.net/category/release/
+23:21:46	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6091
+23:21:46	Warning: 	File has moved from https://www.cubbo.net/?p=6091 to https://www.cubbo.net/baum-caal-menesix-eskuche-chinese-girl-feat-menesix/
+23:21:49	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6104
+23:21:49	Warning: 	File has moved from https://www.cubbo.net/?p=6104 to https://www.cubbo.net/baums-track-on-repopulate-stars-outer-limits-compilation/
+23:21:49	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6098
+23:21:49	Warning: 	File has moved from https://www.cubbo.net/?p=6098 to https://www.cubbo.net/baums-trax-on-sola-miami-2019-compilation/
+23:21:50	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5140
+23:21:50	Warning: 	File has moved from https://www.cubbo.net/?p=5140 to https://www.cubbo.net/a-pauls-beatport-chart-july-august-2019/
+23:22:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3687
+23:22:01	Warning: 	File has moved from https://www.cubbo.net/?p=3687 to https://www.cubbo.net/eric-sneo-andy-dux-sonic-ep/
+23:22:02	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4977
+23:22:02	Warning: 	File has moved from https://www.cubbo.net/?p=4977 to https://www.cubbo.net/eric-sneos-2-trax-included-on-dolma-red-1-year-rmx-ep/
+23:22:03	Warning: 	Found for https://www.cubbo.net/tag/liveset-es/?lang=es/feed/
+23:22:03	Warning: 	File has moved from https://www.cubbo.net/tag/liveset-es/?lang=es/feed/ to https://www.cubbo.net/tag/liveset/
+23:22:03	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3898
+23:22:03	Warning: 	File has moved from https://www.cubbo.net/?p=3898 to https://www.cubbo.net/christian-smith-drunken-kong-why-are-we-here-ep/
+23:22:03	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4917
+23:22:03	Warning: 	File has moved from https://www.cubbo.net/?p=4917 to https://www.cubbo.net/christian-smith-john-selway-count-zero-ep-part-ii/
+23:22:08	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2428
+23:22:08	Warning: 	File has moved from https://www.cubbo.net/?p=2428 to https://www.cubbo.net/naked-lunch-podcast-300-a-paul/
+23:22:08	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4361
+23:22:08	Warning: 	File has moved from https://www.cubbo.net/?p=4361 to https://www.cubbo.net/drumcomplex-craving-ep/
+23:22:08	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6111
+23:22:08	Warning: 	File has moved from https://www.cubbo.net/?p=6111 to https://www.cubbo.net/baum-de-la-swing-discokids/
+23:22:09	Warning: 	Found for https://www.cubbo.net/category/sin-categorizar/?lang=es/feed/
+23:22:09	Warning: 	File has moved from https://www.cubbo.net/category/sin-categorizar/?lang=es/feed/ to https://www.cubbo.net/category/uncategorized/
+23:22:24	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4506
+23:22:24	Warning: 	File has moved from https://www.cubbo.net/?p=4506 to https://www.cubbo.net/siles-lag-todag-ep/
+23:22:24	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1383
+23:22:24	Warning: 	File has moved from https://www.cubbo.net/?p=1383 to https://www.cubbo.net/follow-us-on-instagram/
+23:22:24	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1898
+23:22:24	Warning: 	File has moved from https://www.cubbo.net/?p=1898 to https://www.cubbo.net/spartaque-afterdark/
+23:22:44	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1961
+23:22:44	Warning: 	File has moved from https://www.cubbo.net/?p=1961 to https://www.cubbo.net/connecting-arg-live-w-luigi-rocca/
+23:23:03	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1957
+23:23:03	Warning: 	File has moved from https://www.cubbo.net/?p=1957 to https://www.cubbo.net/love-is-in-the-air-episode-05-luigi-rocca-dj-set-january-2019/
+23:23:16	Warning: 	Found for https://www.cubbo.net/category/podcast-es/?lang=es/feed/
+23:23:16	Warning: 	File has moved from https://www.cubbo.net/category/podcast-es/?lang=es/feed/ to https://www.cubbo.net/category/podcast/
+23:23:16	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1976
+23:23:16	Warning: 	File has moved from https://www.cubbo.net/?p=1976 to https://www.cubbo.net/wildcards-003/
+23:23:32	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1905
+23:23:32	Warning: 	File has moved from https://www.cubbo.net/?p=1905 to https://www.cubbo.net/steam-shape-live-black-mamba-akvarium/
+23:23:50	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1965
+23:23:50	Warning: 	File has moved from https://www.cubbo.net/?p=1965 to https://www.cubbo.net/luigi-rocca-rude-it-body-soul-ep/
+23:23:54	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1991
+23:23:54	Warning: 	File has moved from https://www.cubbo.net/?p=1991 to https://www.cubbo.net/ken-ishii-diode/
+23:24:07	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1946
+23:24:07	Warning: 	File has moved from https://www.cubbo.net/?p=1946 to https://www.cubbo.net/kaiserdisco-hallodri-ep/
+23:24:12	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1932
+23:24:12	Warning: 	File has moved from https://www.cubbo.net/?p=1932 to https://www.cubbo.net/fernanda-martins-moving-d-edge-sao-paulo-bra-jan-2019/
+23:24:13	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1995
+23:24:13	Warning: 	File has moved from https://www.cubbo.net/?p=1995 to https://www.cubbo.net/ken-ishii-mixcloud-official-exclusive-february-2019-mix/
+23:24:14	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1949
+23:24:14	Warning: 	File has moved from https://www.cubbo.net/?p=1949 to https://www.cubbo.net/kaiserdisco-joins-cubbo/
+23:24:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2433
+23:24:29	Warning: 	File has moved from https://www.cubbo.net/?p=2433 to https://www.cubbo.net/autoclave-a-paul-dkult-remix/
+23:24:30	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2436
+23:24:30	Warning: 	File has moved from https://www.cubbo.net/?p=2436 to https://www.cubbo.net/lucas-freire-february-2019-chart/
+23:24:46	Warning: 	Found for https://www.cubbo.net/category/cuadros/?lang=es/feed/
+23:24:46	Warning: 	File has moved from https://www.cubbo.net/category/cuadros/?lang=es/feed/ to https://www.cubbo.net/category/charts/
+23:24:46	Warning: 	Found for https://www.cubbo.net/category/tecnologia/?lang=es/feed/
+23:24:46	Warning: 	File has moved from https://www.cubbo.net/category/tecnologia/?lang=es/feed/ to https://www.cubbo.net/category/tech/
+23:24:46	Warning: 	Found for https://www.cubbo.net/tag/golpe-es/?lang=es/feed/
+23:24:46	Warning: 	File has moved from https://www.cubbo.net/tag/golpe-es/?lang=es/feed/ to https://www.cubbo.net/tag/golpe/
+23:24:46	Warning: 	Found for https://www.cubbo.net/category/interview/?lang=es/feed/
+23:24:46	Warning: 	File has moved from https://www.cubbo.net/category/interview/?lang=es/feed/ to https://www.cubbo.net/category/interviews/
+23:24:46	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1973
+23:24:46	Warning: 	File has moved from https://www.cubbo.net/?p=1973 to https://www.cubbo.net/octopus-podcast-302-rob-hes-guest-mix/
+23:24:46	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1918
+23:24:46	Warning: 	File has moved from https://www.cubbo.net/?p=1918 to https://www.cubbo.net/rave-jungle-interview-with-techno-dj-and-producer-fernanda-martins/
+23:25:03	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1969
+23:25:03	Warning: 	File has moved from https://www.cubbo.net/?p=1969 to https://www.cubbo.net/rob-hes-different-shapes/
+23:25:20	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1937
+23:25:20	Warning: 	File has moved from https://www.cubbo.net/?p=1937 to https://www.cubbo.net/mix214-fernanda-martins/
+23:25:21	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1927
+23:25:21	Warning: 	File has moved from https://www.cubbo.net/?p=1927 to https://www.cubbo.net/technocity-berlin-interview-with-fernanda-martins-ger/
+23:25:54	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1953
+23:25:54	Warning: 	File has moved from https://www.cubbo.net/?p=1953 to https://www.cubbo.net/kd-radio-show/
+23:25:55	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1942
+23:25:55	Warning: 	File has moved from https://www.cubbo.net/?p=1942 to https://www.cubbo.net/techno-voller-leidenschaft-fernanda-martins/
+23:26:12	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1893
+23:26:12	Warning: 	File has moved from https://www.cubbo.net/?p=1893 to https://www.cubbo.net/giovanni-carozza-spartaque-thermal-inertia-pre-order/
+23:26:12	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1901
+23:26:12	Warning: 	File has moved from https://www.cubbo.net/?p=1901 to https://www.cubbo.net/steam-shape-dimensionless-ep/
+23:26:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2424
+23:26:29	Warning: 	File has moved from https://www.cubbo.net/?p=2424 to https://www.cubbo.net/a-paul-dj-dextro-probe-ep/
+23:26:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2440
+23:26:29	Warning: 	File has moved from https://www.cubbo.net/?p=2440 to https://www.cubbo.net/lucas-freire-april-2019-chart/
+23:26:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=2443
+23:26:29	Warning: 	File has moved from https://www.cubbo.net/?p=2443 to https://www.cubbo.net/lucas-freire-plays-produces-feels-lives-and-breathes-techno/
+23:26:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=1981
+23:26:29	Warning: 	File has moved from https://www.cubbo.net/?p=1981 to https://www.cubbo.net/golpe-aka-broken-robot-bpm-wars-kolin/
+23:26:29	Warning: 	Found for https://www.cubbo.net/tag/podcast-es/?lang=es/feed/
+23:26:29	Warning: 	File has moved from https://www.cubbo.net/tag/podcast-es/?lang=es/feed/ to https://www.cubbo.net/tag/podcast/
+23:26:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4540
+23:26:29	Warning: 	File has moved from https://www.cubbo.net/?p=4540 to https://www.cubbo.net/foundations-on-di-fm-feat-sarah-strandberg-decoy-fallen-angel/
+23:26:29	Error: 	"Not Found" (404) at link https://www.cubbo.net/music/sarah-strandberg/ (from https://www.cubbo.net/foundations-on-di-fm-feat-sarah-strandberg-decoy-fallen-angel/)
+23:26:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4512
+23:26:29	Warning: 	File has moved from https://www.cubbo.net/?p=4512 to https://www.cubbo.net/siles-live-from-barraca-valencia-octopus-podcast-320/
+23:26:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4434
+23:26:29	Warning: 	File has moved from https://www.cubbo.net/?p=4434 to https://www.cubbo.net/sinisa-tamamovic-live-from-paradiso-noord-amsterdam-octopus-podcast-318/
+23:26:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5827
+23:26:29	Warning: 	File has moved from https://www.cubbo.net/?p=5827 to https://www.cubbo.net/juli-aristy-joins-cubbo/
+23:26:29	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3831
+23:26:29	Warning: 	File has moved from https://www.cubbo.net/?p=3831 to https://www.cubbo.net/nusha-t78-equality/
+23:26:46	Warning: 	Moved Permanently for https://www.cubbo.net/?p=6405
+23:26:46	Warning: 	File has moved from https://www.cubbo.net/?p=6405 to https://www.cubbo.net/raul-mezcolanza-contributes-with-2-trax-on-progressive-grooves-vol-3-compilation/
+23:26:51	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4428
+23:26:51	Warning: 	File has moved from https://www.cubbo.net/?p=4428 to https://www.cubbo.net/sinisa-tamamovic-releases-on-octopus-recordings-compilation-psychological-manipulation/
+23:26:51	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link wp-content/uploads/2022/09/juarezyt.jpg (from https://www.cubbo.net/music/juarez/)
+23:26:51	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3987
+23:26:51	Warning: 	File has moved from https://www.cubbo.net/?p=3987 to https://www.cubbo.net/horacio-cruz-c-system-wisna-raul-parra-techno-religion-remixes/
+23:26:51	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3864
+23:26:51	Warning: 	File has moved from https://www.cubbo.net/?p=3864 to https://www.cubbo.net/alberto-ruiz-simina-grigoriu-bb-deng-albird-double-trouble-ep/
+23:26:51	Warning: 	Moved Permanently for https://www.cubbo.net/music/alberto-ruiz/
+23:26:51	Warning: 	File has moved from https://www.cubbo.net/music/alberto-ruiz/ to https://www.cubbo.net/music/svetec/
+23:26:53	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4374
+23:26:53	Warning: 	File has moved from https://www.cubbo.net/?p=4374 to https://www.cubbo.net/drumcomplex-hear-my-sound/
+23:27:07	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4387
+23:27:07	Warning: 	File has moved from https://www.cubbo.net/?p=4387 to https://www.cubbo.net/drumcomplex-mark-greene-miles-from-mars-14-ep/
+23:27:09	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4367
+23:27:09	Warning: 	File has moved from https://www.cubbo.net/?p=4367 to https://www.cubbo.net/carl-cox-jon-rundell-pure-intec-4/
+23:27:09	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4219
+23:27:09	Warning: 	File has moved from https://www.cubbo.net/?p=4219 to https://www.cubbo.net/oscar-aguilera-george-privatti-monkey-island-khainz-remix/
+23:27:09	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4030
+23:27:09	Warning: 	File has moved from https://www.cubbo.net/?p=4030 to https://www.cubbo.net/kaiserdisco-live-at-phuture-zouk-in-singapore-kdr073-kd-music-radio/
+23:27:09	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3923
+23:27:09	Warning: 	File has moved from https://www.cubbo.net/?p=3923 to https://www.cubbo.net/kaiserdisco-clams-ep/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4683
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4683 to https://www.cubbo.net/raul-mezcolanza-cosmo-chart/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3726
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=3726 to https://www.cubbo.net/d-unity-juli-aristy-and-spartaque-follow-the-girl/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3852
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=3852 to https://www.cubbo.net/alberto-ruiz-sven-wittekind-jam-el-mar-time-code-ep/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4043
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4043 to https://www.cubbo.net/ken-ishii-dani-sbert-malfunction-manipulation-dani-sbert-remixes/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4050
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4050 to https://www.cubbo.net/ken-ishii-the-world-of-pac-man/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5324
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=5324 to https://www.cubbo.net/drumcomplex-ken-ishii-included-on-nine-years-of-techno-selected-by-diarmaid-o-meara/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4111
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4111 to https://www.cubbo.net/lucas-freire-vegim-andres-gil-dykkon-dvl001/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4140
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4140 to https://www.cubbo.net/lucas-freire-timing-pascal-feos-remix-one/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4091
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4091 to https://www.cubbo.net/lexlay-and-various-artists-hottest-tracks/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4069
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4069 to https://www.cubbo.net/lexlay-russ-yallop-together-ft-rio/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4075
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4075 to https://www.cubbo.net/lexlay-apollo-84-constelations-ep/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5483
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=5483 to https://www.cubbo.net/fernanda-martins-matt-minimals-track-included-on-nothing-but-the-underground-vol-13/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5462
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=5462 to https://www.cubbo.net/fernanda-martins-stiv-hey-tom-laws-dhes-tom-hades-alex-lentini-konrad-italy-ace-alvarez-marck-d-steve-shaden-spektre-spartaque-hush-sleep-uto-karem-presents-best-of-2018/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5303
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=5303 to https://www.cubbo.net/a-pauls-release-on-berlin-techno-essentials-vol-12/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4159
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4159 to https://www.cubbo.net/manuel-orf-aka-viper-xxl-ex-proprio-marte-2/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4166
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4166 to https://www.cubbo.net/manuel-orf-aka-viper-xxl-dj-murphy-dolby-d-g8-dani-sbert-jusai-x-men-turbo/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4183
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4183 to https://www.cubbo.net/manuel-orf-aka-viper-xxl-dexit-30-03-2019/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4202
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4202 to https://www.cubbo.net/nusha-alltimeclubbing-romania-be-at-tv/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4238
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4238 to https://www.cubbo.net/oscar-ls-remix-included-on-dj-vivonas-my-bones-remixes-ep/
+23:27:11	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4254
+23:27:11	Warning: 	File has moved from https://www.cubbo.net/?p=4254 to https://www.cubbo.net/oscar-l-loco-jam-the-rain-ep/
+23:27:26	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4005
+23:27:26	Warning: 	File has moved from https://www.cubbo.net/?p=4005 to https://www.cubbo.net/d-unity-juli-aristy-look-at-me-ep/
+23:27:26	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4012
+23:27:26	Warning: 	File has moved from https://www.cubbo.net/?p=4012 to https://www.cubbo.net/juli-aristy-runner-original-mix/
+23:27:26	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3917
+23:27:26	Warning: 	File has moved from https://www.cubbo.net/?p=3917 to https://www.cubbo.net/d-unity-umek-eliminating-the-need-ep/
+23:27:26	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3821
+23:27:26	Warning: 	File has moved from https://www.cubbo.net/?p=3821 to https://www.cubbo.net/nusha-darmec-ranchatek-dopamine-ep/
+23:27:26	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4440
+23:27:26	Warning: 	File has moved from https://www.cubbo.net/?p=4440 to https://www.cubbo.net/sinisa-tamamovics-release-on-night-light-record-irreversible-twelve-compilation/
+23:27:27	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4407
+23:27:27	Warning: 	File has moved from https://www.cubbo.net/?p=4407 to https://www.cubbo.net/sinisa-tamamovic-minds-ep/
+23:27:27	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4328
+23:27:27	Warning: 	File has moved from https://www.cubbo.net/?p=4328 to https://www.cubbo.net/drumcomplex-disco-ep/
+23:27:27	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5284
+23:27:27	Warning: 	File has moved from https://www.cubbo.net/?p=5284 to https://www.cubbo.net/a-paul-michael-schwarz-dj-slot-gabeen-dr-hoffmann-syntax/
+23:27:27	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4970
+23:27:27	Warning: 	File has moved from https://www.cubbo.net/?p=4970 to https://www.cubbo.net/davina-moss-danny-serrano-nooo-ep/
+23:27:27	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5278
+23:27:27	Warning: 	File has moved from https://www.cubbo.net/?p=5278 to https://www.cubbo.net/a-paul-virgil-enzinger-d-noyse-ryuji-takeuchi-gabeen-dr-hoffmann-norbert-hoffmann-albert-kraner-odic-force-2013/
+23:27:27	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4355
+23:27:27	Warning: 	File has moved from https://www.cubbo.net/?p=4355 to https://www.cubbo.net/drumcomplex-mercy-ep/
+23:27:27	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4878
+23:27:27	Warning: 	File has moved from https://www.cubbo.net/?p=4878 to https://www.cubbo.net/broken-robot-morning-monsta-ep/
+23:27:43	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4530
+23:27:43	Warning: 	File has moved from https://www.cubbo.net/?p=4530 to https://www.cubbo.net/sarah-strandberg-ayako-mori-chris-mole-bright-shiny-she-devil-ep/
+23:27:43	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3814
+23:27:43	Warning: 	File has moved from https://www.cubbo.net/?p=3814 to https://www.cubbo.net/nusha-simina-grigoriu-aka-aka-housemeister-edge-of-the-world-ep/
+23:27:44	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4498
+23:27:44	Warning: 	File has moved from https://www.cubbo.net/?p=4498 to https://www.cubbo.net/siles-mr-bizz-lorenzo-bartoletti-rush-ep/
+23:27:46	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4958
+23:27:46	Warning: 	File has moved from https://www.cubbo.net/?p=4958 to https://www.cubbo.net/davina-moss-di-chiara-brothers-devon-rivers-all-i-need-ep/
+23:27:49	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5253
+23:27:49	Warning: 	File has moved from https://www.cubbo.net/?p=5253 to https://www.cubbo.net/a-paul-joe-mesmar-dandi-ugo-gabriel-moraes-lluis-ribalta-rick-dyno-unclesand-klaudia-gawlas-matt-mus-dhyan-droik-sins-secrets-iv/
+23:27:49	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5296
+23:27:49	Warning: 	File has moved from https://www.cubbo.net/?p=5296 to https://www.cubbo.net/a-paul-matt-ess-lucas-wirth-dkult-acid-milk-ep/
+23:27:51	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5290
+23:27:51	Warning: 	File has moved from https://www.cubbo.net/?p=5290 to https://www.cubbo.net/a-paul-dolby-d-sergy-casttle-dj-ogi-schadel-hertzqvake-german-agudo-khodice/
+23:27:51	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5265
+23:27:51	Warning: 	File has moved from https://www.cubbo.net/?p=5265 to https://www.cubbo.net/a-paul-john-creamer-stephane-k-sin-sin-forget-the-world/
+23:27:51	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5259
+23:27:51	Warning: 	File has moved from https://www.cubbo.net/?p=5259 to https://www.cubbo.net/a-paul-angy-kore-gabriel-padrevita-steve-shaden-lukas-freudenberger-sebastian-groth-manuel-orf-aka-viper-xxl-deborah-de-luca-fatima-hajji-resistohr-juliana-yamasaki-roentgen-limiter-tobias/
+23:27:51	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3930
+23:27:51	Warning: 	File has moved from https://www.cubbo.net/?p=3930 to https://www.cubbo.net/sid-vaga-herald-roland-clark-journey-davina-moss-remix/
+23:27:54	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4496
+23:27:54	Warning: 	File has moved from https://www.cubbo.net/?p=4496 to https://www.cubbo.net/siles-ediug-ep/
+23:27:54	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4490
+23:27:54	Warning: 	File has moved from https://www.cubbo.net/?p=4490 to https://www.cubbo.net/siles-berlanga-natalino-nunes-ink-ep/
+23:27:54	Warning: 	Found for https://www.cubbo.net/category/unkategorisiert/?lang=de/feed/
+23:27:54	Warning: 	File has moved from https://www.cubbo.net/category/unkategorisiert/?lang=de/feed/ to https://www.cubbo.net/category/uncategorized/
+23:27:54	Error: 	"Not Found" (404) at link https://www.cubbo.net/?lang=de (from https://www.cubbo.net/category/unkategorisiert/?lang=de)
+23:27:54	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4736
+23:27:54	Warning: 	File has moved from https://www.cubbo.net/?p=4736 to https://www.cubbo.net/raul-mezcolanza-alleanza-radio-show-ep351/
+23:27:54	Warning: 	Moved Permanently for https://www.cubbo.net/?p=3847
+23:27:54	Warning: 	File has moved from https://www.cubbo.net/?p=3847 to https://www.cubbo.net/alberto-ruiz-pablo-caballero-mittens-tankhamun-buldog-moby/
+23:27:54	Warning: 	Moved Permanently for https://www.cubbo.net/?p=5317
+23:27:54	Warning: 	File has moved from https://www.cubbo.net/?p=5317 to https://www.cubbo.net/drumcomplexs-remix-included-on-monophon-issue-13-compilation/
+23:28:01	Warning: 	Moved Permanently for https://www.cubbo.net/?p=4522
+23:28:01	Warning: 	File has moved from https://www.cubbo.net/?p=4522 to https://www.cubbo.net/sarah-strandberg-climbing-out-of-darkness-ep/
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 minutes 0 seconds : 2852 links scanned, 2489 files written (566868192 bytes overall) [568567348 bytes received at 287155 bytes/sec], 34093 bytes transferred using HTTP compression in 2 files, ratio 25%, 11.7 requests per connection
+(20 errors, 677 warnings, 0 messages)

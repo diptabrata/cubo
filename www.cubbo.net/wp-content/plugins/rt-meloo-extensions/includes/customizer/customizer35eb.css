@@ -1,0 +1,157 @@
+/* ==================================================
+  Customizer CSS
+  ~ Main Color: #4063e6 ~
+================================================== */
+
+
+/* ==================================================
+  Header 
+================================================== */
+.nav-logo {
+    margin-top: [logo_a_css_mt];
+    margin-bottom: [logo_a_css_mb];
+}
+.nav-logo {
+    width: [logo_a_css_w];
+}
+
+
+/* ==================================================
+  Colors 
+================================================== */
+
+::-moz-selection {
+    background: #4063e6;
+}
+::selection {
+    background: #4063e6;
+}
+
+a,
+.color,
+.sticky .post-title:before,
+.error404 .big-text,
+#nav-sidebar ul li a:hover,
+.logged-in-as a:hover,
+.comment .author a:hover,
+.comment .reply a,
+#reply-title small:hover,
+.widget a:hover,
+.widget li a:hover,
+.widget table#wp-calendar #next a:hover,
+.widget table#wp-calendar #prev a:hover,
+.widget_archive li a:hover,
+.widget_categories li a:hover,
+.widget_links li a:hover,
+.widget_meta li a:hover,
+.widget_pages li a:hover,
+.widget_recent_comments li a:hover,
+.widget_recent_entries li a:hover,
+.widget_nav_menu_2 li a:before,
+.widget_search #searchform #searchsubmit i:hover,
+.rt-newsletter-input-wrap:after,
+.mfp-arrow:hover,
+.mfp-close:hover:after,
+.post-header.hero .post-meta-bottom a:hover,
+.testi-slider li .front-layer .text .name, /* Addons */
+.rt-recent-posts.rt-show-thumbs .rp-caption,
+.rt-recent-posts .rp-caption h4 a:hover,
+div.wpcf7-validation-errors,
+div.wpcf7-acceptance-missing,
+.sp-tracklist .track.sp-error .status-icon
+{
+	color: #4063e6;
+}
+
+
+/* Background
+ -------------------------------- */
+.attachment-post-link a:hover,
+#icon-nav .shop-items-count,
+#search-block #searchform #s,
+.post-meta-top .date:before,
+.meta-tags a:hover,
+.single-meloo_gallery .page-header .gallery-cats:after,
+.form-submit #submit,
+.widget button,
+.widget .button,
+.widget input[type="button"],
+.widget input[type="reset"],
+.widget input[type="submit"],
+.widget_tag_cloud .tagcloud a:hover,
+.module-event-2 .event-name:before,
+.module.module-gallery-1 .images-number:before,
+.module .post-date:before,
+.badge.free,
+.button-hidden-layer,
+input[type="submit"],
+button,
+.btn,
+input[type="submit"].btn-dark:hover,
+button.btn-dark:hover,
+.btn.btn-dark:hover,
+input[type="submit"].btn-light:hover,
+button.btn-light:hover,
+.btn.btn-light:hover,
+input[type="submit"].btn-grey:hover,
+button.btn-grey:hover,
+.btn.btn-grey:hover,
+.sp-track.playing,
+.sp-track.paused,
+#sp-empty-queue,
+.sp-progress .sp-position,
+#scamp_player.paused .sp-position,
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, /* Woocommerce */
+#payment ul li input[type="radio"]:checked:after,
+.woocommerce #respond input#submit, 
+.woocommerce a.button, 
+.woocommerce button.button, 
+.woocommerce input.button,
+.woocommerce div.product form.cart .button,
+.subscribe-form .subscribe-submit:hover, /* Addons */
+.kc-event-countdown-header span:first-child:after,
+.kc-share-buttons a.micro-share:hover,
+.track-details-1 li .value a.micro-share:hover,
+a.micro-btn,
+.kc-posts-slider.owl-theme .owl-pagination .owl-page:hover,
+.wft-actions .sp-play-track:hover,
+.sp-content-progress .sp-content-position {
+    background-color: #4063e6;
+}
+
+
+.module-event-1 .module-inner:hover,
+.arrow-nav,
+#nprogress .bar,
+.testi-slider li .front-layer:before,  /* Addons */
+.owl-nav-arrows.owl-theme .owl-controls .owl-buttons div {
+    background:#4063e6;
+}
+
+
+/* Stroke
+ -------------------------------- */
+#icon-nav .nav-player-btn.status-playing .circle {
+    stroke: #4063e6;
+}
+
+
+/* Border Colors
+ -------------------------------- */
+input:focus,
+textarea:focus,
+select:focus,
+#nav-main > ul > li > a:not(.module-link):before,
+.post-meta-top .date:before,
+.module-4:hover,
+.module-music-2:hover,
+.cats-style .cat:before,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a, /* Woocommerce */
+div.wpcf7-validation-errors,/* Addons */
+div.wpcf7-acceptance-missing {
+    border-color: #4063e6;
+}
+
+.testi-slider li .front-layer .text {
+    border-left-color: #4063e6;
+}
